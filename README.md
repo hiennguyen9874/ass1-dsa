@@ -158,7 +158,7 @@ Sinh viên được phép tuỳ biến, chỉnh sửa `listLib.h` và `processDa
 
 Sinh viên không được sử dụng các thư viện nào khác ngoài các thư viện 
 đã được dùng trong code mẫu.
- 
+
 ### Build
 Sinh viên thực hiện build bằng lệnh **make** từ command line trên Linux
 và chạy file `a01`. Cú pháp trên linux như sau:
@@ -176,7 +176,7 @@ lấy data mẫu từ đây:
 Đối với các bạn dùng VisualStudio (VS) trên Windows, các bạn có thể tạo một 
 project và tự thêm các file mã nguồn vào. Nếu không bạn có thể sử dụng hệ 
 thống CMake để tự sinh project VS cho mình.
- 
+
 
 
 ## Quy định
